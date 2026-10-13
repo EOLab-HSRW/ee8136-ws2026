@@ -10,7 +10,7 @@
 | typical formats | Shapefile (`.shp` + 4 companion files), **GeoPackage** (`.gpkg`), GeoJSON, CSV with coordinates | GeoTIFF (`.tif`), JPEG/PNG + world file, NetCDF |
 | resolution | scale / accuracy of the vertices | cell size (e.g. 1 m DTM) |
 
-Attribute values have **types**: text (string), integer, decimal (real), date. A key like `051` must be *text*, otherwise the leading zero is lost.
+Attribute values have **types**: text (string), integer, decimal (real), date. A key like `051` (or the DWD station id `05792`) must be *text*, otherwise the leading zero is lost.
 
 ## Guided demo
 1. Open your S1 project (or `../s01_2026-10-06/geo0321_NRW_Admin_Boundaries_checkpoint.qgz`).
