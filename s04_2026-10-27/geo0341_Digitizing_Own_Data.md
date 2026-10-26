@@ -1,6 +1,6 @@
 # geo0341 Create your own spatial data: digitizing on the orthophoto
 
-**Session:** 8136 S4 · **Tool:** QGIS editing · **Time:** demo 30 min + exercise 30 min
+**Tool:** QGIS editing · **Time:** demo 30 min + exercise 30 min
 
 You create a new GeoPackage with your own layers and digitize features on the HSRW campus in Kamp-Lintfort, including the Green Fab Lab south-east of the campus, from the orthophoto.
 
