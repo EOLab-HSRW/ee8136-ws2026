@@ -1,0 +1,43 @@
+station_id;date_from;date_to;altitude;lat;lon;name;state;access
+00390;1987-01-01;2025-12-31;611;50.9837;8.3683;Berleburg, Bad-Stünzel;Nordrhein-Westfalen;Frei
+00555;1925-01-01;2025-12-31;110;51.5026;7.2289;Bochum;Nordrhein-Westfalen;Frei
+00603;2001-01-01;2025-12-31;147;50.7293;7.204;Königswinter-Heiderhof;Nordrhein-Westfalen;Frei
+00617;2005-01-01;2025-12-31;47;51.873;6.8863;Borken in Westfalen;Nordrhein-Westfalen;Frei
+01078;1940-01-01;2025-12-31;37;51.296;6.7686;Düsseldorf;Nordrhein-Westfalen;Frei
+01246;2016-01-01;2025-12-31;104;51.8418;8.0607;Ennigerloh-Ostenfelde;Nordrhein-Westfalen;Frei
+01300;1931-01-01;2025-12-31;351;51.254;8.1565;Eslohe;Nordrhein-Westfalen;Frei
+01303;1888-01-01;2025-12-31;150;51.4041;6.9677;Essen-Bredeney;Nordrhein-Westfalen;Frei
+01327;1937-01-01;2025-12-31;147;50.7119;6.7905;Weilerswist-Lommersum;Nordrhein-Westfalen;Frei
+01572;2024-01-01;2025-12-31;80;50.9593;6.0392;Geilenkirchen-Neutevern;Nordrhein-Westfalen;Frei
+01590;1937-01-01;2025-12-31;37;51.4942;6.2463;Geldern-Walbeck;Nordrhein-Westfalen;Frei
+01766;1990-01-01;2025-12-31;48;52.1344;7.6969;Münster/Osnabrück;Nordrhein-Westfalen;Frei
+02483;1927-01-01;2025-12-31;839;51.1803;8.4891;Kahler Asten;Nordrhein-Westfalen;Frei
+02497;1937-01-01;2025-12-31;505;50.5014;6.5264;Kall-Sistig;Nordrhein-Westfalen;Frei
+02629;1851-01-01;2025-12-31;46;51.7612;6.0954;Kleve;Nordrhein-Westfalen;Frei
+02667;1958-01-01;2025-12-31;91;50.8645;7.1575;Köln/Bonn;Nordrhein-Westfalen;Frei
+02947;1963-01-01;2025-12-31;286;51.1333;8.0348;Lennestadt-Theten;Nordrhein-Westfalen;Frei
+03028;1951-01-01;2025-12-31;157;51.7854;8.8388;Lippspringe, Bad;Nordrhein-Westfalen;Frei
+03031;1981-01-01;2025-12-31;92;51.6336;8.3945;Lippstadt-Bökenförde;Nordrhein-Westfalen;Frei
+03098;1994-01-01;2025-12-31;387;51.2452;7.6425;Lüdenscheid;Nordrhein-Westfalen;Frei
+03321;2024-01-01;2025-12-31;76;51.1313;6.3608;Mönchengladbach-Hilderath;Nordrhein-Westfalen;Frei
+03540;1993-01-01;2025-12-31;195;50.8446;7.372;Neunkirchen-Seelscheid-Krawinkel;Nordrhein-Westfalen;Frei
+03591;1994-01-01;2025-12-31;350;50.6743;6.424;Nideggen-Schmidt;Nordrhein-Westfalen;Frei
+03623;2002-01-01;2025-12-31;108;50.8294;6.6601;Nörvenich-Niederbolheim;Nordrhein-Westfalen;Frei
+04063;1950-01-01;2025-12-31;41;52.4461;8.5906;Rahden-Kleinendorf;Nordrhein-Westfalen;Frei
+04127;1992-01-01;2025-12-31;347;50.9906;7.6958;Reichshof-Eckenhagen;Nordrhein-Westfalen;Frei
+04371;1931-01-01;2025-12-31;135;52.1042;8.7521;Salzuflen, Bad;Nordrhein-Westfalen;Frei
+05064;2005-01-01;2025-12-31;37;51.2897;6.4437;Tönisvorst;Nordrhein-Westfalen;Frei
+05347;1998-01-01;2025-12-31;236;51.5039;9.1118;Warburg;Nordrhein-Westfalen;Frei
+05480;1940-01-01;2025-12-31;85;51.5763;7.8879;Werl;Nordrhein-Westfalen;Frei
+05717;1907-01-01;2025-12-31;134;51.2256;7.1052;Wuppertal-Buchenhofen;Nordrhein-Westfalen;Frei
+06197;2001-01-01;2025-12-31;258;51.8664;9.271;Lügde-Paenbruch;Nordrhein-Westfalen;Frei
+06264;2005-01-01;2025-12-31;457;51.414;8.65;Brilon-Thülen;Nordrhein-Westfalen;Frei
+06337;2005-01-01;2025-12-31;58;51.7663;7.5194;Lüdinghausen-Brochtrup;Nordrhein-Westfalen;Frei
+07106;2007-01-01;2025-12-31;105;52.0714;8.4565;Bielefeld-Deppendorf;Nordrhein-Westfalen;Frei
+07330;2006-01-01;2025-12-31;159;51.4633;7.978;Arnsberg-Neheim;Nordrhein-Westfalen;Frei
+07374;2007-01-01;2025-12-31;46;52.0813;6.9409;Ahaus;Nordrhein-Westfalen;Frei
+13670;2008-01-01;2025-12-31;24;51.5088;6.7018;Duisburg-Baerl;Nordrhein-Westfalen;Frei
+13696;2008-01-01;2025-12-31;60;51.5966;7.4048;Waltrop-Abdinghof;Nordrhein-Westfalen;Frei
+13700;2009-01-01;2025-12-31;203;51.3329;7.3412;Gevelsberg-Oberbröking;Nordrhein-Westfalen;Frei
+13713;2008-01-01;2025-12-31;385;51.0899;7.6289;Meinerzhagen-Redlendorf;Nordrhein-Westfalen;Frei
+15000;2012-01-01;2025-12-31;231;50.7983;6.0244;Aachen-Orsbach;Nordrhein-Westfalen;Frei
